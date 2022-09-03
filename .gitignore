@@ -2,4 +2,4 @@
 /transaction-sys/node_modules/
 node
 transaction-sys
-test
+/test/node_modules/
