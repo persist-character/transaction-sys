@@ -1,0 +1,7 @@
+
+> node@1.0.0 start D:\pageMake\毕设\node
+> cross-env PORT=4000 babel-node server.js
+
+2021-12-26 15:16:31 info:数据库连接开始
+2021-12-26 15:16:31 info:数据库连接成功^_^
+2021-12-26 15:16:31 info:服务已启动，端口：4000
